@@ -1,0 +1,73 @@
+./example/lef2/10-10-30-01
+ 0.1044(unsat)  0.0509(sat)  1.4180(sat)  0.1498(sat)
+./example/lef2/10-10-30-02
+ 0.0668(unsat)  0.2406(sat)  2.4213(sat)  0.1376(sat)
+./example/lef2/10-10-30-03
+ 0.0659(unsat)  0.0844(sat)  1.3897(sat)  0.5273(sat)
+./example/lef2/10-10-30-04
+ 0.0651(unsat)  0.0908(sat)  1.6225(sat)  0.8359(sat)
+./example/lef2/10-10-30-05
+ 0.0662(unsat)  0.0662(sat)  1.3439(sat)  0.1593(sat)
+./example/lef2/10-10-35-01
+ 0.0752(unsat)  0.0918(sat)  2.2317(sat)  3.4622(sat)
+./example/lef2/10-10-35-02
+ 0.0787(unsat)  0.1035(sat)  3.7747(sat)  0.2649(sat)
+./example/lef2/10-10-35-03
+ 0.0647(unsat)  0.0688(sat)  1.9997(sat)  0.0845(sat)
+./example/lef2/10-10-35-04
+ 0.0958(unsat)  0.0681(sat)  2.9482(sat)  1.9834(sat)
+./example/lef2/10-10-35-05
+ 0.0721(unsat)  0.0846(sat)  4.0282(sat)  0.2380(sat)
+./example/lef2/10-10-40-01
+ 0.0691(unsat)  0.0955(sat)  4.7924(sat)  0.3278(sat)
+./example/lef2/10-10-40-02
+ 0.1023(unsat)  0.1654(sat)  4.5545(sat)  0.3461(sat)
+./example/lef2/10-10-40-03
+ 0.0940(unsat)  0.1013(sat)  3.5305(sat)  0.3105(sat)
+./example/lef2/10-10-40-04
+ 0.0787(unsat)  0.0998(sat)  5.3627(sat)  1.3569(sat)
+./example/lef2/10-10-40-05
+ 0.0995(unsat)  0.0594(sat)  4.5353(sat)  2.0073(sat)
+./example/lef2/15-15-30-01
+ 0.4980(unsat)  0.7109(sat) 65.7359(sat) 227.0688(sat)
+./example/lef2/15-15-30-02
+ 0.4660(unsat)  0.2610(sat) 58.9964(sat) 12.3341(sat)
+./example/lef2/15-15-30-03
+ 0.3835(unsat)  0.5103(sat) 80.7403(sat)  1.6385(sat)
+./example/lef2/15-15-30-04
+ 0.5093(unsat)  0.4169(sat) 87.2099(sat)  2.5951(sat)
+./example/lef2/15-15-30-05
+ 0.3771(unsat)  0.3855(sat) 84.2642(sat)  1.7693(sat)
+./example/lef2/15-15-35-01
+ 0.5234(unsat)  1.3828(sat) 112.8358(sat) 283.3938(sat)
+./example/lef2/15-15-35-02
+ 0.5708(unsat)  0.5389(sat) 119.1165(sat) 35.3530(sat)
+./example/lef2/15-15-35-03
+ 0.5360(unsat)  0.3678(sat) 159.1238(sat)  2.1013(sat)
+./example/lef2/15-15-35-04
+ 0.3338(unsat)  0.5829(sat) 109.6787(sat)  9.8226(sat)
+./example/lef2/15-15-35-05
+ 0.4515(unsat)  3.0128(sat) 105.9940(sat) 353.0117(sat)
+./example/lef2/15-15-40-01
+ 0.5015(unsat)  1.1224(sat) 126.4000(sat) 16.6421(sat)
+./example/lef2/15-15-40-02
+ 0.4319(unsat)  3.0369(sat) 105.6688(sat) 155.9426(sat)
+./example/lef2/15-15-40-03
+ 0.5364(unsat)  0.4802(sat) 187.3873(sat) 15.1316(sat)
+./example/lef2/15-15-40-04
+ 0.5885(unsat)  0.9043(sat) 212.0454(sat) 24.4028(sat)
+./example/lef2/15-15-40-05
+ 0.4751(unsat)  0.6569(sat) 97.5467(sat) 10.6589(sat)
+./example/lef2/20-20-30-01
+ 3.3181(unsat)  3.0013(sat)  0.0000(-)  2.7753(sat)
+./example/lef2/20-20-30-02
+ 2.8804(unsat)  3.6650(sat)  0.0000(-)  0.0000(-)
+./example/lef2/20-20-30-03
+ 2.1354(unsat)  3.3685(sat) 1075.6300(sat) 115.6733(sat)
+./example/lef2/20-20-30-04
+ 2.4534(unsat) 399.6629(sat)  0.0000(-)  9.3696(sat)
+./example/lef2/20-20-30-05
+ 2.5753(unsat)  1.3829(sat)  0.0000(-) 183.2012(sat)
+./example/lef2/20-20-35-01
+ 3.2755(unsat) 1057.3038(sat)  0.0000(-)  0.0000(-)
+./example/lef2/20-20-35-02
